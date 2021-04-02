@@ -1,0 +1,19 @@
+{
+  "name": "random-value-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeareater/random-value-generator.git"
+  },
+  "author": "yeareater",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeareater/random-value-generator/issues"
+  },
+  "homepage": "https://github.com/yeareater/random-value-generator#readme"
+}
