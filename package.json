@@ -2,7 +2,8 @@
   "name": "random-value-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "keywords": [],
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/yeareater/random-value-generator/issues"
   },
-  "homepage": "https://github.com/yeareater/random-value-generator#readme"
+  "engines": {
+    "node": ">4.0.0",
+    "npm" : ">1.0.20"
+  },
+  "homepage": "https://github.com/yeareater/random-value-generator#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "typescript": "^4.9.5"
+  }
 }
