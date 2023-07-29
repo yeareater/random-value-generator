@@ -1,6 +1,6 @@
 {
   "name": "@QuesDevTeam/rvg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "engines": {
     "node": ">4.0.0",
-    "npm" : ">1.0.20"
+    "npm": ">1.0.20"
   },
   "homepage": "https://github.com/yeareater/random-value-generator#readme",
   "devDependencies": {
